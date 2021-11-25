@@ -1,6 +1,3 @@
-import javax.annotation.concurrent.Immutable;
-
-@Immutable
 public class Utente {
 	
 	private String idUtente;
