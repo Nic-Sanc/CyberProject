@@ -1,6 +1,3 @@
-import javax.annotation.concurrent.Immutable;
-
-@Immutable
 public class ProjectFile {
 	private String filePath;
 	private String nameFile;
