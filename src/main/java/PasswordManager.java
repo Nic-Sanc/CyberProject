@@ -7,10 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ResourceBundle;
 
-import javax.annotation.concurrent.Immutable;
 import javax.servlet.http.HttpServletResponse;
 import javax.swing.JOptionPane;
-@Immutable
+
 public final class PasswordManager {
 	
 	private byte[] pw;
